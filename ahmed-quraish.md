@@ -6,7 +6,7 @@ fullname: Ahmed Quraish
 jobtitle: Full Stack Web Developer
 
 location: Austin, TX
-blurb: "No worries, all is well"
+blurb: "No worries, all is well."
 
 skills:
   - JavaScript
