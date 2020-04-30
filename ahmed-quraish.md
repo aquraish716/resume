@@ -21,7 +21,7 @@ skills:
 github: https://github.com/aquraish716
 linkedin: https://www.linkedin.com/in/ahmedquraish/
 
-email: # aquraish@gmail.com
+email: aquraish@gmail.com
 phone: #
 
 workexperience:
@@ -51,9 +51,9 @@ education:
   degree: BS in Business Management
 
 projects:
-  - name: # Cell Manager
+  - name: Cell Manager
     desc: # An app that takes our current company M2M lines from multiple wireless carriers and allows us to view in a single portal. 
-            This will help automate billing and data reports and allow for less use of google spreadsheets.
-    url: # https://github.com/aquraish716/cellManager2
+            # This will help automate billing and data reports and allow for less use of google spreadsheets.
+    url: # https://github.com/aquraish716/cellManager2 (work in progress)
 
 ---
