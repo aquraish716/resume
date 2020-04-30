@@ -2,7 +2,7 @@
 layout: resume # don't touch
 categories: [ hire, graduation, austincodingacademy ] # don't touch
 
-fullname:Ahmed Quraish
+fullname: Ahmed Quraish
 jobtitle: Full Stack Web Developer
 
 location: Austin, TX
