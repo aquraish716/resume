@@ -6,7 +6,7 @@ fullname: Ahmed Quraish
 jobtitle: Full Stack Web Developer
 
 location: Austin, TX
-blurb: "No worries, all is well."
+blurb: "Creative, innovative, and proven team player. I have a passion for both frontend and backend development and how it all works together to create the latest in web technologies."
 
 skills:
   - JavaScript
@@ -22,7 +22,7 @@ github: https://github.com/aquraish716
 linkedin: https://www.linkedin.com/in/ahmedquraish/
 
 email: aquraish@gmail.com
-phone: #
+phone: #716-715-5555
 
 workexperience:
   - company:Acumera, Inc.
